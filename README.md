@@ -1,8 +1,8 @@
-# Digits-Denoiser
+
 Leveraging CNNs in Auto Encoder Architecture / Stacked Sparse Auto Encoders to remove artificially introduced gaussian noise from Handwritten MNIST Digits
 
 
-This project primarily aims to showcase the practical use of Autoencoders for denoising purposes. Our approach involves introducing Gaussian noise into the MNIST (Modified National Institute of Standards and Technology) dataset and subsequently attempting to remove this noise through the application of various filters such as Gaussian Filter, Bilateral Filter, and Median Filter. However, our main emphasis will be on exploring the effectiveness of **Auto Encoders with CNNs** / **Simple Sparse Auto Encoders** in the context of denoising tasks.
+This project primarily aims to showcase the practical use of Autoencoders for denoising purposes. Our approach involves introducing Gaussian noise into the MNIST (Modified National Institute of Standards and Technology) dataset and subsequently attempting to remove this noise through the application of various filters such as Gaussian Filter, Bilateral Filter, and Median Filter. However, our main emphasis will be on exploring the effectiveness of **Auto Encoders with CNNs** / **Stacked Sparse Auto Encoders** in the context of denoising tasks.
 
 ### Quick Glance
 
